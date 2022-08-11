@@ -1,10 +1,10 @@
 {
 	"embed_content": {
-		"title": "Support Embed Title",
-		"description": "Open The Below Menu And Select Your Issue.",
+		"title": "Wick Commands",
+		"description": "Open The Menu Below.",
 		"color": "00000",
-		"thumbnail": false,
-		"thumbnail_url": "Url of A PNG/GIF",
+		"thumbnail": true,
+		"thumbnail_url": "https://cdn.discordapp.com/attachments/937194082105688155/1007400262907990106/wickking.png",
 		"_questions": "Questions In The Menu Can Be Found In options.json"
 	}
 }

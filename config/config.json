@@ -1,10 +1,10 @@
 {
-	"token": "TOKEN_HERE",
-	"status": "STATUS_OF_BOT",
-	"prefix": "PREFIX_HERE",
+	"token": "token",
+	"status": "testing",
+	"prefix": "t!",
 	"enable_slash": true,
-	"owners": ["OWNER_ID", "OWNER_ID", "OWNER_ID"],
-	"log_channel_id": "LOG_CHANNEL_ID",
+	"owners": ["720055120137552042"],
+	"log_channel_id": "937194082105688155",
 	"Important": "Must Fill The FeedBack Channel ID Field To Get Feedback From The Forms Interactions. Also owners are the only ones permitted to create menus.",
 	"Note": "Fill All The Above.For new Line use \n.For new TabSpace use \t.HyperLink use (text)[link] it will appear blue & clickable"
 }

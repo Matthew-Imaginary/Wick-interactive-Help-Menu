@@ -67,7 +67,6 @@ client.on("interactionCreate", async (interaction) => {
 //Message Event only Listen to owners so make sure to fill the owner array in config
 client.on("messageCreate", async (msg) => {
 	if (msg.author.bot) return
-	if (msg.channel.isDM()) return
 	if (!owners.includes(msg.author.id)) return
 	if (msg.content === `${config.prefix}create`)
 	{
